@@ -92,7 +92,7 @@ hr { border-color: var(--dust-grey); }
                     <hr>
                     <div class="text-center small text-muted">
                         <strong>Pembuat : </strong><br>
-                        <!-- admin / password &nbsp;|&nbsp; budi / password &nbsp;|&nbsp; manager / password -->
+                        <!-- admin / password &nbsp;|&nbsp; bud / password &nbsp;|&nbsp; manager / password -->
                          Rachman Maulana - 1224160049
                     </div>
                 </div>
